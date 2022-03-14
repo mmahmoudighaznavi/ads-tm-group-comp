@@ -16,7 +16,7 @@ Instructions:
     * Highlight one interesting differentiating feature between your two artists using either the lyrics data or the Twitter data or both. 
     * Build word clouds for all four corpora. 
 
-5. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook.
+1. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook.
 
 Assignment Materials: 
   
