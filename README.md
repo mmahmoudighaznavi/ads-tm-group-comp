@@ -10,11 +10,10 @@ Instructions:
 1. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Blackboard and extract it into your repository. If you did complete the assignment for Module 1, then you will use that data in this assignment.  
 1. The notebook “Group Comparison.ipynb” holds detailed instructions for the assignment. In that notebook you are asked to do the following: 
     
-    * Calculate descriptive statistics on the two sets of lyrics and compare the results. 
-    * Calculate TF-IDF matrices on the lyrics sets to identify the words that best identify the two artists. 
-    * Tokenize your Twitter descriptions, keeping hashtags and emojis in your token set. The repeat the TF-IDF analysis on these two corpora.
-    * Highlight one interesting differentiating feature between your two artists using either the lyrics data or the Twitter data or both. 
-    * Build word clouds for all four corpora. 
+    * Read in the data, normalize the text, and tokenize it. When you tokenize your Twitter descriptions, keep hashtags and emojis in your token set.
+    * Calculate descriptive statistics on the two sets of lyrics and compare the results.
+    * For each of the four corpora, find the words that are unique to that corpus.
+    * Build word clouds for all four corpora.
 
 1. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook.
 
